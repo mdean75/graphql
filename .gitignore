@@ -1,8 +1,20 @@
 
 !/.idea/
 .idea/workspace.xml
+.idea/gqlgen-todos.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
+!/.idea/workspace.xml
+
+/.idea/workspace.xml
+/.idea/gqlgen-todos.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+
 !/.idea/gqlgen-todos.iml
 !/.idea/misc.xml
 !/.idea/modules.xml
 !/.idea/vcs.xml
-!/.idea/workspace.xml
