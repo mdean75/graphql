@@ -1,20 +1,20 @@
+# User-specific stuff:
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea/dictionaries
+**/.idea/vcs.xml
+**/.idea/jsLibraryMappings.xml
 
-!/.idea/
-.idea/workspace.xml
-.idea/gqlgen-todos.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
+# Sensitive or high-churn files:
+**/.idea/dataSources.ids
+**/.idea/dataSources.xml
+**/.idea/dataSources.local.xml
+**/.idea/sqlDataSources.xml
+**/.idea/dynamic.xml
+**/.idea/uiDesigner.xml
 
-!/.idea/workspace.xml
+## File-based project format:
+*.iws
 
-/.idea/workspace.xml
-/.idea/gqlgen-todos.iml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/vcs.xml
-
-!/.idea/gqlgen-todos.iml
-!/.idea/misc.xml
-!/.idea/modules.xml
-!/.idea/vcs.xml
+# IntelliJ
+/out/
